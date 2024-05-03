@@ -11,16 +11,16 @@
 Heute hab ich mir überlegt was ich diese Lernperiode machen möchte. Zuerst möchte ich meine erste Websit fertig machen. Danach möchte eine Galerie mit meinen Drohnenfotos machen, die mit der ersten Website verbunden ist. Auf Youtube habe ich ein hilfreiches Tutorial gefunden. Ich werde aber nich alles  1 zu 1 übernehmen. Am Schluss habe ich noch die Arbeitspackete für nächste Woche geplant. [62]
 
 ## 10.05.2024
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Text schreiben, Buttons für die Galerie einfügen 
+- [ ] Code für die Galerie schreiben     
+- [ ] Bilder aussuchen und einfügen 
+- [ ] Aufträge fertigstellen 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
+| 1               |   Website offen                   |   Button drücken             |  Galerie öffnet sich              |          |
 | 2               |                      |                |                |          |
-| 3               |                      |                |                |          |
+| 3               |    Website offen                  |  Galerie öffnen              |   Bilder passend angeordnet             |          |
 | 4               |                      |                |                |          |
 
 ## 17.05.2024
