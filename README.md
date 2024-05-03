@@ -8,3 +8,30 @@
 4. Ich möchte an meiner Webseite weiterarbeiten. Ich werde eine zweite Webseite machen mit einer Fotogalerie, die mit einem Link mit der ersten verbunden ist. Ausserdem werde ich jedes mal ein Arbeitspacket vewenden, um Aufträge fertig zu stellen.
 
 ## 03.05.2024
+Heute hab ich mir überlegt was ich diese Lernperiode machen möchte.
+
+## 10.05.2024
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+## 17.05.2024
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
