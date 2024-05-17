@@ -13,7 +13,7 @@ Heute hab ich mir überlegt was ich diese Lernperiode machen möchte. Zuerst mö
 ## 17.05.2024
 - [ ] Text schreiben, Buttons für die Galerie einfügen 
 - [x] Code für die Galerie schreiben     
-- [ ] Bilder aussuchen und einfügen Schweiz 
+- [x] Bilder aussuchen und einfügen Schweiz 
 - [ ] Aufträge fertigstellen 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
