@@ -12,15 +12,15 @@ Heute hab ich mir überlegt was ich diese Lernperiode machen möchte. Zuerst mö
 
 ## 10.05.2024
 - [ ] Text schreiben, Buttons für die Galerie einfügen 
-- [ ] Code für die Galerie schreiben     
+- [x] Code für die Galerie schreiben     
 - [ ] Bilder aussuchen und einfügen 
 - [ ] Aufträge fertigstellen 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   Website offen                   |   Button drücken             |  Galerie öffnet sich              |          |
+| 1               |   Website offen                   |   Button drücken             |  Galerie öffnet sich              |   True       |
 | 2               |                      |                |                |          |
-| 3               |    Website offen                  |  Galerie öffnen              |   Bilder passend angeordnet             |          |
+| 3               |    Website offen                  |  Galerie öffnen              |   Bilder passend angeordnet             |  True        |
 | 4               |                      |                |                |          |
 
 ## 17.05.2024
