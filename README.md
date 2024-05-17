@@ -10,10 +10,10 @@
 ## 03.05.2024
 Heute hab ich mir überlegt was ich diese Lernperiode machen möchte. Zuerst möchte ich meine erste Websit fertig machen. Danach möchte eine Galerie mit meinen Drohnenfotos machen, die mit der ersten Website verbunden ist. Auf Youtube habe ich ein hilfreiches Tutorial gefunden. Ich werde aber nich alles  1 zu 1 übernehmen. Am Schluss habe ich noch die Arbeitspackete für nächste Woche geplant. [62]
 
-## 10.05.2024
+## 17.05.2024
 - [ ] Text schreiben, Buttons für die Galerie einfügen 
 - [x] Code für die Galerie schreiben     
-- [ ] Bilder aussuchen und einfügen 
+- [ ] Bilder aussuchen und einfügen Schweiz 
 - [ ] Aufträge fertigstellen 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -23,15 +23,16 @@ Heute hab ich mir überlegt was ich diese Lernperiode machen möchte. Zuerst mö
 | 3               |    Website offen                  |  Galerie öffnen              |   Bilder passend angeordnet             |  True        |
 | 4               |                      |                |                |          |
 
-## 17.05.2024
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+Heute habe ich mit meiner zweiten Webseite gestartet. Ich habe mit Hilfe eines Tutorials den Code für die Galerie geschrieben. Danach habe ich Bilder ausgesucht und eingefügt. Wenn man auf ein Bild klickt, wird es gross angezeigt. Ich habe mich dazu entschieden, zwei Abschnitte für meine Galerie zu machen, ein Abschnitt mit Bildern aus der Schweiz und ein Abschnitt mit Bildern aus Italien. Ich habe bereits die Bilder aus der Schweiz eingefügt. Am Ende ist noch ein kleines Problem aufgetreten. Wenn ich nach unten scrolle, wird das Bild, das ich anklicke, oben gezeigt. Das werde ich nächstes Mal noch verbessern. [100]
+
+## 24.05.2024
+- [ ] Bilder aussuchen und einfügen Italien
+- [ ] Beschreibung zu jedem Bild hinzufügen (2 Arbeitspackete)
+- [ ] Galerie verschöneren
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |                      |                |                |          |
-| 2               |                      |                |                |          |
+| 2               |  Websit offen                    |  Bild öffnen              |   Beschreibung unten             |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
