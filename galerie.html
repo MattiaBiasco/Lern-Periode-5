@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galerie</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <h1 class="Titel">Meine Galerie</h1> 
+   <div class="Bilder">
+    <img src="Bilder/img1.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img2.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img3.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img4.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img5.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img6.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img7.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img8.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img9.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img10.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img11.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img12.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img14.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img15.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img16.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img17.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img18.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img19.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img20.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img21.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img22.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img23.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img24.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img25.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img26.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img27.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img28.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img29.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img30.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img31.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img32.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img33.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img34.jpg" onclick='FullView(this.src)';>
+    <img src="Bilder/img35.jpg" onclick='FullView(this.src)';>
+   </div>
+
+   <div id="FullImageView">
+    <img id="FullImage">
+    <span id="CloseButton" onclick = 'CloseFullView()'>&times;</span>
+
+   </div>
+
+   <script type="text/javascript">
+    function FullView(ImgLink) {
+        document.getElementById('FullImage').src=ImgLink;
+        document.getElementById('FullImageView').style.display='block';
+    }
+    function CloseFullView() {
+        document.getElementById('FullImageView').style.display='none';
+    }
+   </script>
+
+</body>
+</html>
