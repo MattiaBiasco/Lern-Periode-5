@@ -33,6 +33,22 @@ Heute habe ich mit meiner zweiten Webseite gestartet. Ich habe mit Hilfe eines T
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |                      |                |                |          |
-| 2               |  Websit offen                    |  Bild öffnen              |   Beschreibung unten             |          |
+| 2               |  Website offen                    |  Bild öffnen              |   Beschreibung unten             |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
+
+Heute habe ich die Bilder von Italien ausgesucht und eingefügt. Danach hab ich rechechiert, wie ich zu jedem Bild eine Beschreibung einfügen kann. Nach einiger Recherche habe ich mit Hilfe von ChatGPT einen Tag gefunden. Ich habe angefangen zu jedem Bild eine Beschreibung zu schreiben. Ich merkte, dass das mehr Zeit braucht als erwartet. Ich bin erst mit den Bildern aus der Schweiz fertig geworden. [65]
+
+
+## 31.05.2024
+- [ ] Beschreibung zu jedem Bild hinzufügen
+- [ ] Problem beheben
+- [ ] Galerie verschöneren
+- [ ] Galerie mit der Startseite verlinken
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |  Website offen                    |   Bild öffnen             |   Beschreibung unten             |          |
+| 2               |                      |               |              |          |
+| 3               |                      |                |                |          |
+| 4               | Startseite offen                     |  Button klicken              | Galerie öffnet sich               |          |
