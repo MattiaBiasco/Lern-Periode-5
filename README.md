@@ -41,14 +41,32 @@ Heute habe ich die Bilder von Italien ausgesucht und eingefügt. Danach hab ich 
 
 
 ## 31.05.2024
-- [ ] Beschreibung zu jedem Bild hinzufügen
-- [ ] Problem beheben
+- [x] Beschreibung zu jedem Bild hinzufügen
+- [x] Problem beheben
 - [ ] Galerie verschöneren
-- [ ] Galerie mit der Startseite verlinken
+- [x] Aufträge fertigstellen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |  Website offen                    |   Bild öffnen             |   Beschreibung unten             |          |
+| 1               |  Website offen                    |   Bild öffnen             |   Beschreibung unten             |   True       |
 | 2               |                      |               |              |          |
 | 3               |                      |                |                |          |
 | 4               | Startseite offen                     |  Button klicken              | Galerie öffnet sich               |          |
+
+Heute habe ich zuerst noch Aufträge fertig gemacht, da ich diese Woche nicht fertig wurde. Danach habe ich für alle Bilder eine Bildbeschreibung hinzugefügt. Dann habe ich überlegt und recherchiert wie ich das Problem mit dem Vollbild löse. Schliesslich konnte ich das Problem mit ChatGPT lösen. Wenn ich jetzt ein Bild anklicke, wird direkt gross angezeigt. [56]
+
+
+
+
+## 07.06.2024
+- [ ] Galerie mit Startseite verlinken
+- [ ] Galerie verschönern (z.B Titel, Hintergrund) (2Ap)
+- [ ] Aufträge fertig machen
+ 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |    Startseite offen                  |  auf Button klicken              |   Galerie öffnet sich             |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
