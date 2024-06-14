@@ -75,8 +75,28 @@ Heute habe ich zuerst meine Startseite mit der Galerie verlinkt. Wenn man jetzt 
 
 
 ## 14.06.2024
-- [ ] Ein Menü zur Startseite hinzufügen
-- [ ] Eine weitere Seite mit Infos über mich
+- [x] Ein Menü zur Startseite hinzufügen
+- [x] Eine weitere Seite mit Infos über mich
+- [x] Aufträge fertig machen
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |   Webseite offen                   | ein Button drücken               |  dazugehörige Seite öffnet sich              |  True        |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+Heute habe ich mit dem Menu meiner Webseite angefangen. Ich hab ein bischen rumprobiert. Doch ich bin noch nicht zufrieden. Ich möchte, dass es mehr aussieht, wei eine Navigationsleiste. Danach habe ich eine neue Webseite erstellt und mit der Startseite verlinkt. In diese neue Webseite habe ich etwas über mich geschrieben. Sie muss aber noch ausgebessert werden.[57]
+
+
+
+
+
+ ## 21.06.2024
+- [ ] Menü überarbeiten, dass es wie eine Navigationsleiste aussieht
+- [ ] Die Seite über mich ausbessern und verschönern
+- [ ] Eine weiter Seite erstellen und mit der Startseite verlinken
 - [ ] Aufträge fertig machen
 
 
@@ -86,4 +106,3 @@ Heute habe ich zuerst meine Startseite mit der Galerie verlinkt. Wenn man jetzt 
 | 2               |                      |                |                |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
- 
