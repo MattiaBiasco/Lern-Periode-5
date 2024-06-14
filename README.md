@@ -62,11 +62,28 @@ Heute habe ich zuerst noch Aufträge fertig gemacht, da ich diese Woche nicht fe
 - [ ] Galerie mit Startseite verlinken
 - [ ] Galerie verschönern (z.B Titel, Hintergrund) (2Ap)
 - [ ] Aufträge fertig machen
- 
+
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |    Startseite offen                  |  auf Button klicken              |   Galerie öffnet sich             |          |
+| 1               |    Startseite offen                  |  auf Button klicken              |   Galerie öffnet sich             |   True       |
 | 2               |                      |                |                |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
+
+Heute habe ich zuerst meine Startseite mit der Galerie verlinkt. Wenn man jetzt auf den Button klickt, gelangt man direkt zur Galerie. Danach habe ich noch einige Dinge verschönert und angepasst, zum Beispiel die Bildgrösse. Dann habe ich noch ein paar Tutorials angeschaut. Zum Schluss habe ich noch ein Auftrag fertig gemacht. [52]
+
+
+## 14.06.2024
+- [ ] Ein Menü zur Startseite hinzufügen
+- [ ] Eine weitere Seite mit Infos über mich
+- [ ] Aufträge fertig machen
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |   Webseite offen                   | ein Button drücken               |  dazugehörige Seite öffnet sich              |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
+ 
