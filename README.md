@@ -96,8 +96,26 @@ Heute habe ich mit dem Menu meiner Webseite angefangen. Ich hab ein bischen rump
  ## 21.06.2024
 - [ ] Menü überarbeiten, dass es wie eine Navigationsleiste aussieht
 - [ ] Die Seite über mich ausbessern und verschönern
-- [ ] Eine weiter Seite erstellen und mit der Startseite verlinken
 - [ ] Aufträge fertig machen
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |   Webseite offen                   | ein Button drücken               |  dazugehörige Seite öffnet sich              |   True       |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+Heute habe ich zuerst noch meine Planung angepast, weil ein Ap ausfallt. Danach habe ich mein Menu überarbeitet. Ich habe oben eine Navigationsleiste erstellt. Dazu habe ich ein Tutorial angeschaut. Dann habe ich noch die Seite über mich verschönert. Jetzt bin ich mehr oder weniger zufrieden mit meiner Webseite. Nächstes mal werde ich noch kleine Verbesserungen vornehmen. [57]
+
+
+
+
+
+## 28.06.2024
+- [ ] letze Seite erstellen über die Drohne
+- [ ] Bei allen Seiten noch verschönern, Instagram button
+
 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
