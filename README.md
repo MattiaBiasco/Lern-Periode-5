@@ -26,8 +26,8 @@ Heute hab ich mir überlegt was ich diese Lernperiode machen möchte. Zuerst mö
 Heute habe ich mit meiner zweiten Webseite gestartet. Ich habe mit Hilfe eines Tutorials den Code für die Galerie geschrieben. Danach habe ich Bilder ausgesucht und eingefügt. Wenn man auf ein Bild klickt, wird es gross angezeigt. Ich habe mich dazu entschieden, zwei Abschnitte für meine Galerie zu machen, ein Abschnitt mit Bildern aus der Schweiz und ein Abschnitt mit Bildern aus Italien. Ich habe bereits die Bilder aus der Schweiz eingefügt. Am Ende ist noch ein kleines Problem aufgetreten. Wenn ich nach unten scrolle, wird das Bild, das ich anklicke, oben gezeigt. Das werde ich nächstes Mal noch verbessern. [100]
 
 ## 24.05.2024
-- [ ] Bilder aussuchen und einfügen Italien
-- [ ] Beschreibung zu jedem Bild hinzufügen (2 Arbeitspackete)
+- [x] Bilder aussuchen und einfügen Italien
+- [x] Beschreibung zu jedem Bild hinzufügen (2 Arbeitspackete)
 - [ ] Galerie verschöneren
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -59,9 +59,9 @@ Heute habe ich zuerst noch Aufträge fertig gemacht, da ich diese Woche nicht fe
 
 
 ## 07.06.2024
-- [ ] Galerie mit Startseite verlinken
-- [ ] Galerie verschönern (z.B Titel, Hintergrund) (2Ap)
-- [ ] Aufträge fertig machen
+- [x] Galerie mit Startseite verlinken
+- [x] Galerie verschönern (z.B Titel, Hintergrund) (2Ap)
+- [x] Aufträge fertig machen
 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -94,9 +94,9 @@ Heute habe ich mit dem Menu meiner Webseite angefangen. Ich hab ein bischen rump
 
 
  ## 21.06.2024
-- [ ] Menü überarbeiten, dass es wie eine Navigationsleiste aussieht
-- [ ] Die Seite über mich ausbessern und verschönern
-- [ ] Aufträge fertig machen
+- [x] Menü überarbeiten, dass es wie eine Navigationsleiste aussieht
+- [x] Die Seite über mich ausbessern und verschönern
+- [x] Aufträge fertig machen
 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
