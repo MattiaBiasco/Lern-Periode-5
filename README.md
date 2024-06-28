@@ -128,9 +128,17 @@ Heute habe ich zuerst noch meine Planung angepast, weil ein Ap ausfallt. Danach 
 Heute habe ich zuerst den Instagram Button verlinkt. Danach habe ich meine letzte Seite gemacht. Eine Seite, auf der man mehr über meine Drohne und meine persönlichen Erfahrungen erfährt. Mit dem Desing bin ich nicht fertig geworden, darum habe ich es mit KI gemacht. Am Schluss habe ich unten das fertige Produkt präsentiert und ich habe noch 2 Reflexionen geschrieben.[60]
 
 
+
+
 ## fertiges Produkt
 
 Ich habe eine Webseite über mein Hobby Drohnen fliegen gemacht. Zuerst ist man auf der Startseite, von der aus man auf jede Unterseite kommt. Die Wichtigste Unterseite ist die Galerie. Dort kann man alle meine Bilder anschauen. Wenn man auf ein Bild draufklickt, wird es gross angezeigt. Dann habe ich noch eine Seite mit Infos über mich und eine Seite mit Infos über die Drohne. Ausserdem gelangt man von dort aus direkt zu meinem Tiktok- oder Instagram-Kanal.[77]
 ![image](https://github.com/MattiaBiasco/Lern-Periode-5/assets/142606014/199f3adc-0e49-49f6-85e6-16284342a2a5)
 ![image](https://github.com/MattiaBiasco/Lern-Periode-5/assets/142606014/238d2383-094a-441d-b087-32785a5bc228)
+
+
+
+## Reflexion
+In dieser Lernperiode habe ich etwas über HTML und CSS gelernt, wie man Webseiten erstellt und designt. Ich fande dieses Thema am spannensten, da ich gerne kreativ bin. Mein VBV waren klarere Arbeitspackete und bessere Planung. Das ist mir nur teilweise gelungen. Oft hatte ich nicht mehr Zeit um ein geplantes Arbeitspacket fertig zu machen. Trotzdem bin ich heute wie geplant, mit der Webseite fertig geworden. Ich bin sehr zufrieden. [70]
+
 
